@@ -4,6 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/topography"
+    android:backgroundTint="@color/blue"
     android:orientation="vertical">
 
     <ImageView
@@ -24,7 +25,7 @@
         android:layout_width="300dp"
         android:layout_height="58dp"
         android:hint="@string/user"
-        android:textColorHint="@color/white"
+        android:textColorHint="@color/gray"
         android:layout_marginStart="40dp"
         android:inputType="text"
         android:textColor="@color/black"/>
@@ -43,8 +44,7 @@
         android:layout_width="300dp"
         android:layout_height="58dp"
         android:hint="@string/Password"
-        android:textColorHint="@color/white"
-
+        android:textColorHint="@color/gray"
         android:layout_marginStart="40dp"
         android:inputType="text"
         android:textColor="@color/black"/>
