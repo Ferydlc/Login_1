@@ -10,7 +10,7 @@
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="250dp"
-        android:src="@drawable/topography"/>
+        android:src="@drawable/hyena_preview_rev_1"/>
 
     <TextView
         android:layout_width="300dp"
